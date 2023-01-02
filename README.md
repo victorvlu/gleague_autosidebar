@@ -1,6 +1,6 @@
 # gleaguesidebar_auto
 
-Automatically retrieve and update sidebar widgets on a G-League subreddit with its current roster, standings, and upcoming games.
+Automatically retrieve and update sidebar widgets on a G-League subreddit with current roster, standings, and upcoming games.
 
 ## Prerequisites
 Have the following installed:
