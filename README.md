@@ -3,7 +3,6 @@
 Automatically retrieve and update sidebar widgets on a G-League subreddit with current roster, standings, and upcoming games.
 
 ## Prerequisites
-Have the following installed:
 * Python
 * BeautifulSoup
 * PRAW
